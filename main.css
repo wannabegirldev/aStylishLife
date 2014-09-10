@@ -113,6 +113,33 @@ p {
   margin: 1em;
 }
 
+#menu {
+    position: relative;
+    overflow: hidden;
+}
+
+.items {
+    float:left;
+    width:31%;
+    margin:1% 1% 45px 1%;
+}
+
+.label {
+    bottom:0px;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+
+.description {
+    font-family: 'Lato', sans-serif;
+}
+
+.items img {
+    width: 100%;
+    display: block;
+}
+
 
 
 /*Media Queries*/

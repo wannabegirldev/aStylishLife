@@ -176,6 +176,7 @@ footer > ul li .text {
     margin-right: 1em;
     position: relative;
     text-align: justify;
+    font-family: 'Lato', sans-serif;
 }
 
 .text h4 {

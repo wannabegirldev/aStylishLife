@@ -1,0 +1,31 @@
+.services {
+    overflow: hidden;
+    position: relative;
+    margin: 2em;
+}
+
+.services h1 {
+    margin-left: 1em;
+}
+
+.services h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.6em;
+}
+
+.serviceList {
+    overflow: hidden;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list {
+    list-style: none;
+    line-height: 1.5em;
+}
+
+
+
+
+

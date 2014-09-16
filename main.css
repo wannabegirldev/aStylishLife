@@ -9,6 +9,26 @@ body {
     font: normal 100%; 
 }
 
+a:link {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
 #page {
    margin: 36px auto;
    width: 90%;
@@ -176,6 +196,7 @@ footer > ul li {
     -moz-box-sizing:border-box;
 }
 
+
 footer > ul li .text {
     color: #848889;
     font-size: 13px;
@@ -189,7 +210,7 @@ footer > ul li .text {
 
 .text h4 {
     font-family: 'Montez', cursive;
-    font-size: 3em;
+    font-size: 2.5em;
     margin-top: .33em;
     margin-bottom: .5em;
 }
@@ -199,7 +220,7 @@ footer > ul li .text {
 }
 
 .social a {
-    margin-left: .5em;
+    margin-left: .1em;
 }
 
 /*Media Queries*/

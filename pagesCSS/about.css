@@ -1,0 +1,14 @@
+#headshot {
+    float: left;
+    margin: 1em 2em 1em;
+}
+
+.welcome h1 {
+    text-align: left;
+    margin: .8em;
+}
+
+.welcome p {
+    padding: .2em;
+    line-height: 2em;
+}
